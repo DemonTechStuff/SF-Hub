@@ -121,11 +121,11 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 ## Fortress:
  
 ## Underworld:
-- Keeper Cost - [Link](https://bit.ly/Keeper-cost
+- Keeper Cost - [Link](https://bit.ly/Keeper-cost)
  
 ## Dungeons:
-- Dungeon Order (Dungeons 1-9 in increasing Level) - [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=641919597
-- Dungeon Simulator V2 (Program in english) - [Link](https://forum.sfgame.de/showthread.php?t=80821
+- Dungeon Order (Dungeons 1-9 in increasing Level) - [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=641919597)
+- Dungeon Simulator V2 (Program in english) - [Link](https://forum.sfgame.de/showthread.php?t=80821)
  
 ## Mushrooms:
  
@@ -136,7 +136,7 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 ## Items:
  
 ## Smith:
-- Smithsimulator - [Link](https://spaaaace.lima-city.de/snf/derschmied.html
+- Smithsimulator - [Link](https://spaaaace.lima-city.de/snf/derschmied.html)
  
 # Toilet:
  
@@ -145,6 +145,6 @@ Scrapbook and Achievments:
 ## Fighting:
  
 Arena Manager:
-- Accla's Arena Manager Tool - [Link](https://drive.google.com/file/d/1Cnnl66l6ixe1yimXVtQzBUR24Z6cOmKf/view?usp=sharing
-- Rune Boni - [Link](https://bit.ly/Rune-bonuses
+- Accla's Arena Manager Tool - [Link](https://drive.google.com/file/d/1Cnnl66l6ixe1yimXVtQzBUR24Z6cOmKf/view?usp=sharing)
+- Rune Boni - [Link](https://bit.ly/Rune-bonuses)
 
