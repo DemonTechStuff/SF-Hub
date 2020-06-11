@@ -16,9 +16,9 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 - Der Level 1 Guide - [https://forum.sfgame.de/showthread.php?t=48732](https://forum.sfgame.de/showthread.php?t=48732)
  
 ## Quests:
-- Reihenfolge der Events - [https://forum.sfgame.de/showthread.php?t=71332(https://forum.sfgame.de/showthread.php?t=71332)
+- Reihenfolge der Events - [https://forum.sfgame.de/showthread.php?t=71332](https://forum.sfgame.de/showthread.php?t=71332)
 - rote Quests in der Taverne - [https://forum.sfgame.de/showthread.php?t=60628](https://forum.sfgame.de/showthread.php?t=60628)
-- Goldquesten - [https://forum.sfgame.de/showthread.php?t=68545(https://forum.sfgame.de/showthread.php?t=68545)
+- Goldquesten - [https://forum.sfgame.de/showthread.php?t=68545](https://forum.sfgame.de/showthread.php?t=68545)
 - EP oder Gold? - [https://forum.sfgame.de/showthread.php?t=75877&page=6](https://forum.sfgame.de/showthread.php?t=75877&page=6
 - (Dailyquest Liste)(Post in einem Thread, von viper) - [Link](https://forum.sfgame.de/showthread.php?p=829468#post829468
 - Wie viel Attribute ist ein Level wert? + Gold oder EP Quests, eine progressive Analyse - [Link](https://forum.sfgame.de/showthread.php?t=78394
