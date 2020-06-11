@@ -8,17 +8,17 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
  
 ## Allgemeine Anleitungen, Gesamtguides, Einsteigerhilfen:
 - Offizielle Anleitung - [https://forum.sfgame.de/showthread.php?t=57](https://forum.sfgame.de/showthread.php?t=57)
-- FAQ (Game, Forum, etc.) - [https://forum.sfgame.de/showthread.php?t=81](https://forum.sfgame.de/showthread.php?t=81
-- Häufige Fragen & Antworten (von Fipsi) - [https://forum.sfgame.de/showthread.php?t=18069](https://forum.sfgame.de/showthread.php?t=18069
-- Skilltipps für Einsteiger - [https://forum.sfgame.de/showthread.php?t=26480](https://forum.sfgame.de/showthread.php?t=26480
-- Einsteigerhilfen - [https://forum.sfgame.de/showthread.php?t=4150](https://forum.sfgame.de/showthread.php?t=4150
-- Der Späteinsteigerguide - [https://forum.sfgame.de/showthread.php?t=50446](https://forum.sfgame.de/showthread.php?t=50446
-- Der Level 1 Guide - [https://forum.sfgame.de/showthread.php?t=48732](https://forum.sfgame.de/showthread.php?t=48732
+- FAQ (Game, Forum, etc.) - [https://forum.sfgame.de/showthread.php?t=81](https://forum.sfgame.de/showthread.php?t=81)
+- Häufige Fragen & Antworten (von Fipsi) - [https://forum.sfgame.de/showthread.php?t=18069](https://forum.sfgame.de/showthread.php?t=18069)
+- Skilltipps für Einsteiger - [https://forum.sfgame.de/showthread.php?t=26480](https://forum.sfgame.de/showthread.php?t=26480)
+- Einsteigerhilfen - [https://forum.sfgame.de/showthread.php?t=4150](https://forum.sfgame.de/showthread.php?t=4150)
+- Der Späteinsteigerguide - [https://forum.sfgame.de/showthread.php?t=50446](https://forum.sfgame.de/showthread.php?t=50446)
+- Der Level 1 Guide - [https://forum.sfgame.de/showthread.php?t=48732](https://forum.sfgame.de/showthread.php?t=48732)
  
 ## Quests:
-- Reihenfolge der Events - [https://forum.sfgame.de/showthread.php?t=71332(https://forum.sfgame.de/showthread.php?t=71332
-- rote Quests in der Taverne - [https://forum.sfgame.de/showthread.php?t=60628](https://forum.sfgame.de/showthread.php?t=60628
-- Goldquesten - [https://forum.sfgame.de/showthread.php?t=68545(https://forum.sfgame.de/showthread.php?t=68545
+- Reihenfolge der Events - [https://forum.sfgame.de/showthread.php?t=71332(https://forum.sfgame.de/showthread.php?t=71332)
+- rote Quests in der Taverne - [https://forum.sfgame.de/showthread.php?t=60628](https://forum.sfgame.de/showthread.php?t=60628)
+- Goldquesten - [https://forum.sfgame.de/showthread.php?t=68545(https://forum.sfgame.de/showthread.php?t=68545)
 - EP oder Gold? - [https://forum.sfgame.de/showthread.php?t=75877&page=6](https://forum.sfgame.de/showthread.php?t=75877&page=6
 - (Dailyquest Liste)(Post in einem Thread, von viper) - [Link](https://forum.sfgame.de/showthread.php?p=829468#post829468
 - Wie viel Attribute ist ein Level wert? + Gold oder EP Quests, eine progressive Analyse - [Link](https://forum.sfgame.de/showthread.php?t=78394
