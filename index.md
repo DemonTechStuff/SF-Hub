@@ -1,9 +1,9 @@
-## Welcome to the S&F-Hub
+### Welcome to the S&F-Hub
 
 Auf dieser Website sammle ich alle Ressourcen die ich als nützlich empfinde.
 Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem offiziellen Support-Forum und aus dem S&F Discord: [Link](https://discord.com/invite/XWfSwe3)
 
-## German:
+### German:
 ----------------------------------------------------------------------------------------------------------------------------------
  
 ## Allgemeine Anleitungen, Gesamtguides, Einsteigerhilfen:
@@ -107,7 +107,7 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 ## Daily Login Bonus:
 - Täglicher Login Bonus / Stempelkalender  - [Link](https://forum.sfgame.de/showthread.php?t=80609)
  
-## English:
+### English:
 ----------------------------------------------------------------------------------------------------------------------------------
  
 ## Manuals + Guides:
@@ -121,11 +121,11 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 ## Fortress:
  
 ## Underworld:
-- Keeper Cost - https://bit.ly/Keeper-cost
+- Keeper Cost - [Link](https://bit.ly/Keeper-cost
  
 ## Dungeons:
-- Dungeon Order (Dungeons 1-9 in increasing Level) - https://steamcommunity.com/sharedfiles/filedetails/?id=641919597
-- Dungeon Simulator V2 (Program in english) - https://forum.sfgame.de/showthread.php?t=80821
+- Dungeon Order (Dungeons 1-9 in increasing Level) - [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=641919597
+- Dungeon Simulator V2 (Program in english) - [Link](https://forum.sfgame.de/showthread.php?t=80821
  
 ## Mushrooms:
  
@@ -136,7 +136,7 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 ## Items:
  
 ## Smith:
-- Smithsimulator - https://spaaaace.lima-city.de/snf/derschmied.html
+- Smithsimulator - [Link](https://spaaaace.lima-city.de/snf/derschmied.html
  
 # Toilet:
  
@@ -145,39 +145,6 @@ Scrapbook and Achievments:
 ## Fighting:
  
 Arena Manager:
-- Accla's Arena Manager Tool - https://drive.google.com/file/d/1Cnnl66l6ixe1yimXVtQzBUR24Z6cOmKf/view?usp=sharing
-- Rune Boni - https://bit.ly/Rune-bonuses
+- Accla's Arena Manager Tool - [Link](https://drive.google.com/file/d/1Cnnl66l6ixe1yimXVtQzBUR24Z6cOmKf/view?usp=sharing
+- Rune Boni - [Link](https://bit.ly/Rune-bonuses
 
-
-
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-
-### Support or Contact
