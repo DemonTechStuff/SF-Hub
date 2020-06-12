@@ -3,7 +3,7 @@
 Auf dieser Website sammle ich alle Ressourcen die ich als nützlich empfinde.
 Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem offiziellen Support-Forum und aus dem S&F Discord: [Link](https://discord.com/invite/XWfSwe3)
 
-#### German:
+### German:
 ----------------------------------------------------------------------------------------------------------------------------------
  
 ## Allgemeine Anleitungen, Gesamtguides, Einsteigerhilfen:
@@ -14,11 +14,11 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 - Einsteigerhilfen - [https://forum.sfgame.de/showthread.php?t=4150](https://forum.sfgame.de/showthread.php?t=4150)
 - Der Späteinsteigerguide - [https://forum.sfgame.de/showthread.php?t=50446](https://forum.sfgame.de/showthread.php?t=50446)
 - Der Level 1 Guide - [https://forum.sfgame.de/showthread.php?t=48732](https://forum.sfgame.de/showthread.php?t=48732)
-- Shakes & Fidget: Anfänger Guide (Level 1-110) - [https://number13.de/shakes-fidget-anfaenger-guide/](https://number13.de/shakes-fidget-anfaenger-guide/) 
+- Anfänger Guide (Level 1-110) - [https://number13.de/shakes-fidget-anfaenger-guide/](https://number13.de/shakes-fidget-anfaenger-guide/) 
 
 ## Klassen
 - Klassenleitfaden: Die Grundlagen - [Link](https://www.buffed.de/buffedde-Brands-143860/Specials/S-und-F-Game-Insider-Tipps-von-den-Spielentwicklern-790827/2/)
-- Shakes & Fidget: Der Berserker - Beste Klasse für Dungeons? - [https://number13.de/shakes-fidget-der-berserker-beste-klasse-fuer-dungeons/](https://number13.de/shakes-fidget-der-berserker-beste-klasse-fuer-dungeons/) 
+- Der Berserker - Beste Klasse für Dungeons? - [https://number13.de/shakes-fidget-der-berserker-beste-klasse-fuer-dungeons/](https://number13.de/shakes-fidget-der-berserker-beste-klasse-fuer-dungeons/) 
 - s-f-balance - [Link](https://wiki.black-pirates.info/images/1/1d/S-f-balance.pdf)
  
 ## Quests:
@@ -27,6 +27,7 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 - Goldquesten - [https://forum.sfgame.de/showthread.php?t=68545(https://forum.sfgame.de/showthread.php?t=68545)
 - EP oder Gold? - [https://forum.sfgame.de/showthread.php?t=75877&page=6](https://forum.sfgame.de/showthread.php?t=75877&page=6)
 - (Dailyquest Liste)(Post in einem Thread, von viper) - [Link](https://forum.sfgame.de/showthread.php?p=829468#post829468)
+- Alle Quests des geheimen Geheimauftrag des Tages - [https://number13.de/shakes-fidget-alle-quests-des-geheimen-geheimauftrag-des-tages/](https://number13.de/shakes-fidget-alle-quests-des-geheimen-geheimauftrag-des-tages/)
 - Wie viel Attribute ist ein Level wert? + Gold oder EP Quests, eine progressive Analyse - [Link](https://forum.sfgame.de/showthread.php?t=78394)
 - Stempelkalender (Advent) - [Link](https://forum.sfgame.de/showthread.php?t=80609)
  
@@ -36,8 +37,9 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 - Pets - Fundorte und -bedingungen - [Link](https://forum.sfgame.de/showthread.php?t=74658)
 - Gibt es eine feste Fundrate (für Früchte) - [Link](https://forum.sfgame.de/showthread.php?t=73992)
 - Chancen im Habitat - [Link](https://forum.sfgame.de/showthread.php?t=74531)
- 
+- Daten seltener Pets in 2020 - [https://number13.de/shakes-fidget-seltene-pets/](https://number13.de/shakes-fidget-seltene-pets/)
 ## Festung:
+- Der Festungs-Guide - [https://number13.de/shakes-fidget-festung-guide/](https://number13.de/shakes-fidget-festung-guide/)
 - Ritterhalle, FS und schwarze Edelsteine - [Link](https://forum.sfgame.de/showthread.php?t=74386)
 - Festungsangriff(-spanne in der Ehrenhalle) - [Link](https://forum.sfgame.de/showthread.php?t=75310)
 - (Edelsteinformel - vor Bekanntwerden der nicht Linearität) - [Link](https://forum.sfgame.de/showpost.php?p=801247&postcount=8)
@@ -45,6 +47,7 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
  
 ## Unterwelt:
 - Unterwelt Guide - [Link](https://docs.google.com/spreadsheets/d/1wIWwELfh5OcyUyBlRfhGJ4f-Qs5T9pQt4V1_a8fv7eo/edit#gid=2130993592)
+- Unterwelt Guide und Baureihenfolge - [https://number13.de/shakes-fidget-unterwelt-guide/](https://number13.de/shakes-fidget-unterwelt-guide/)
 - Mana Herz der Finsternis (und andere Gegenstände) - [Link](https://forum.sfgame.de/showthread.php?t=76910)
 - (Serverstart Anlocktaktik Unterwelt) - [Link](https://forum.sfgame.de/showthread.php?t=77078)
 - Keeper Cost - [Link](https://bit.ly/Keeper-cost)
@@ -65,8 +68,10 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 ## Gilde:
 - Info zum Forenbutton in der Gilde - [Link](https://forum.sfgame.de/showthread.php?t=19819)
 - Gildenchatbefehle - [Link](https://forum-int.sfgame.net/showthread.php?t=162)
+- Chatbefehle - [Link](https://number13.de/shakes-fidget-chatbefehle/)
 - Kosten der persönlichen Skills - [Link](https://forum.sfgame.de/showthread.php?p=837277#post837277)
 - Info-Sammelthread zum GildenPet - [Link](https://forum.sfgame.de/showthread.php?t=79481)
+- Kosten für Gilden Vollausbau - Alt vs. Neu - [https://number13.de/shakes-fidget-kosten-fuer-gilden-vollausbau/](https://number13.de/shakes-fidget-kosten-fuer-gilden-vollausbau/)
  
 ## Skills, Items, Toilette, Schmied, Hexe:
 - Maximale Werte von Gegenständen - [Link](https://forum.sfgame.de/showthread.php?t=70443)
@@ -81,11 +86,13 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 - Schmiedsimulator - [Link](https://spaaaace.lima-city.de/snf/derschmied.html)
  
 ## Sammelalbum und Achievements:
+- Alle 80 Achievements - Guide - [https://number13.de/shakes-fidget-achievment-guide/](https://number13.de/shakes-fidget-achievment-guide/)
 - (Fragen zu den Achievements) - [Link](https://forum.sfgame.de/showthread.php?t=76340)
 - Strategien & Taktiken, Tipps & Tricks, für's SA - [Link](https://forum.sfgame.de/showthread.php?t=62263)
 - Orte für Weltenbummler - [Link](https://forum.sfgame.de/showpost.php...98&postcount=2)
-- Shakes & Fidget: Level 1 Item 20x Upgraden für "Sky is the Limit" - [https://number13.de/shakes-fidget-level-1-item-20x-upgraden-fuer-sky-is-the-limit/](https://number13.de/shakes-fidget-level-1-item-20x-upgraden-fuer-sky-is-the-limit/)
-
+- Level 1 Item 20x Upgraden für "Sky is the Limit" - [https://number13.de/shakes-fidget-level-1-item-20x-upgraden-fuer-sky-is-the-limit/](https://number13.de/shakes-fidget-level-1-item-20x-upgraden-fuer-sky-is-the-limit/)
+9 Achievements, die du an Tag 1 erledigen kannst - [https://number13.de/shakes-fidget-9-achievements-die-du-an-tag-1-erledigen-kannst/](https://number13.de/shakes-fidget-9-achievements-die-du-an-tag-1-erledigen-kannst/)
+-  So funktioniert der Echte Heilige Gral - [https://number13.de/shakes-fidget-so-funktioniert-der-echte-heilige-gral/](https://number13.de/shakes-fidget-so-funktioniert-der-echte-heilige-gral/)
  
 ## Kämpfe:
 - Wutbonus (Erklärung und alter Wert) - [Link](https://forum.sfgame.de/showpost.php?p=498748&postcount=3)
@@ -105,14 +112,15 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 - Kampfsimulator (by Sparky) - [Link](https://forum.sfgame.de/showpost.php?p=850030&postcount=8)
 - Internationale Serverliste - [Link](https://blog.black-pirates.info/server/shakes-fidget/)
 - Diverse Daten (Skillkosten, Erfahrung...) - [Link](https://blog.black-pirates.info/daten/)
- 
+- Screenshot Ordner der Steam Anwendung - [https://number13.de/shakes-fidget-screenshot-ordner-der-steam-anwendung/]( https://number13.de/shakes-fidget-screenshot-ordner-der-steam-anwendung/)
+
 ## Technischer Support:
 - Validierungsemail - [Link](https://forum.sfgame.de/showthread.php?t=3048))
 - Gehackt worden oder.... - [Link](https://forum.sfgame.de/showthread.php?t=17362))
  
 ## Daily Login Bonus:
 - Täglicher Login Bonus / Stempelkalender  - [Link](https://forum.sfgame.de/showthread.php?t=80609)
- 
+- Alle Belohnungen des Täglichen Login Bonus - [https://number13.de/shakes-fidget-alle-belohnungen-des-taeglichen-login-bonus/](https://number13.de/shakes-fidget-alle-belohnungen-des-taeglichen-login-bonus/)
 ### English:
 ----------------------------------------------------------------------------------------------------------------------------------
  
