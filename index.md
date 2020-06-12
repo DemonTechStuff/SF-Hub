@@ -80,6 +80,7 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem [of
 ## Skills, Items, Toilette, Schmied, Hexe:
 - Maximale Werte von Gegenständen - [Link](https://forum.sfgame.de/showthread.php?t=70443)
 - Übersicht zur Hexe und den Verzauberungen - [Link](https://forum.sfgame.de/showthread.php?t=59738)
+- Zauberrollen der Hexe - [https://www.4m7.de/sammelalbum/hexe.php](https://www.4m7.de/sammelalbum/hexe.php)
 - Nebenattribute - logischer Maximalwert? - [Link](https://forum.sfgame.de/showthread.php?t=56384)
 - Wie weit sollte man Glück skillen? - [Link](https://forum.sfgame.de/showthread.php?t=66200)
 - Toilette - Edelsteine oder Items werfen? - [Link](https://forum.sfgame.de/showthread.php?t=76526)
