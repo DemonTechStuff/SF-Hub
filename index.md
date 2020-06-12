@@ -46,6 +46,7 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem [of
 - Festungsangriff(-spanne in der Ehrenhalle) - [Link](https://forum.sfgame.de/showthread.php?t=75310)
 - (Edelsteinformel - vor Bekanntwerden der nicht Linearität) - [Link](https://forum.sfgame.de/showpost.php?p=801247&postcount=8)
 - (Neuer Formelansatz Enza) - [Link](https://forum-int.sfgame.net/showpost.php?p=56950&postcount=10)
+- Kosten und Ausbauzeiten - [https://www.4m7.de/sammelalbum/festung.php](https://www.4m7.de/sammelalbum/festung.php)
  
 ## Unterwelt:
 - Unterwelt Guide - [Link](https://docs.google.com/spreadsheets/d/1wIWwELfh5OcyUyBlRfhGJ4f-Qs5T9pQt4V1_a8fv7eo/edit#gid=2130993592)
