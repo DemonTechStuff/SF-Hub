@@ -22,9 +22,9 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 - s-f-balance - [Link](https://wiki.black-pirates.info/images/1/1d/S-f-balance.pdf)
  
 ## Quests:
-- Reihenfolge der Events - [https://forum.sfgame.de/showthread.php?t=71332(https://forum.sfgame.de/showthread.php?t=71332)
+- Reihenfolge der Events - [https://forum.sfgame.de/showthread.php?t=71332](https://forum.sfgame.de/showthread.php?t=71332)
 - rote Quests in der Taverne - [https://forum.sfgame.de/showthread.php?t=60628](https://forum.sfgame.de/showthread.php?t=60628)
-- Goldquesten - [https://forum.sfgame.de/showthread.php?t=68545(https://forum.sfgame.de/showthread.php?t=68545)
+- Goldquesten - [https://forum.sfgame.de/showthread.php?t=68545](https://forum.sfgame.de/showthread.php?t=68545)
 - EP oder Gold? - [https://forum.sfgame.de/showthread.php?t=75877&page=6](https://forum.sfgame.de/showthread.php?t=75877&page=6)
 - (Dailyquest Liste)(Post in einem Thread, von viper) - [Link](https://forum.sfgame.de/showthread.php?p=829468#post829468)
 - Alle Quests des geheimen Geheimauftrag des Tages - [https://number13.de/shakes-fidget-alle-quests-des-geheimen-geheimauftrag-des-tages/](https://number13.de/shakes-fidget-alle-quests-des-geheimen-geheimauftrag-des-tages/)
