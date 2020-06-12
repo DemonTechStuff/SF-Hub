@@ -124,7 +124,8 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 - Täglicher Login Bonus / Stempelkalender  - [Link](https://forum.sfgame.de/showthread.php?t=80609)
 - Alle Belohnungen des Täglichen Login Bonus - [https://number13.de/shakes-fidget-alle-belohnungen-des-taeglichen-login-bonus/](https://number13.de/shakes-fidget-alle-belohnungen-des-taeglichen-login-bonus/)
 
-## English:
+# English:
+
 ----------------------------------------------------------------------------------------------------------------------------------
  
 ## Manuals + Guides:
