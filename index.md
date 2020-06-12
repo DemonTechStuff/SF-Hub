@@ -14,6 +14,12 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 - Einsteigerhilfen - [https://forum.sfgame.de/showthread.php?t=4150](https://forum.sfgame.de/showthread.php?t=4150)
 - Der Späteinsteigerguide - [https://forum.sfgame.de/showthread.php?t=50446](https://forum.sfgame.de/showthread.php?t=50446)
 - Der Level 1 Guide - [https://forum.sfgame.de/showthread.php?t=48732](https://forum.sfgame.de/showthread.php?t=48732)
+- Shakes & Fidget: Anfänger Guide (Level 1-110) - [https://number13.de/shakes-fidget-anfaenger-guide/](https://number13.de/shakes-fidget-anfaenger-guide/) 
+
+## Klassen
+- Klassenleitfaden: Die Grundlagen - [Link](https://www.buffed.de/buffedde-Brands-143860/Specials/S-und-F-Game-Insider-Tipps-von-den-Spielentwicklern-790827/2/)
+- Shakes & Fidget: Der Berserker - Beste Klasse für Dungeons? - [https://number13.de/shakes-fidget-der-berserker-beste-klasse-fuer-dungeons/](https://number13.de/shakes-fidget-der-berserker-beste-klasse-fuer-dungeons/) 
+- s-f-balance - [Link](https://wiki.black-pirates.info/images/1/1d/S-f-balance.pdf)
  
 ## Quests:
 - Reihenfolge der Events - [https://forum.sfgame.de/showthread.php?t=71332(https://forum.sfgame.de/showthread.php?t=71332)
@@ -78,6 +84,8 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 - (Fragen zu den Achievements) - [Link](https://forum.sfgame.de/showthread.php?t=76340)
 - Strategien & Taktiken, Tipps & Tricks, für's SA - [Link](https://forum.sfgame.de/showthread.php?t=62263)
 - Orte für Weltenbummler - [Link](https://forum.sfgame.de/showpost.php...98&postcount=2)
+- Shakes & Fidget: Level 1 Item 20x Upgraden für "Sky is the Limit" - [https://number13.de/shakes-fidget-level-1-item-20x-upgraden-fuer-sky-is-the-limit/](https://number13.de/shakes-fidget-level-1-item-20x-upgraden-fuer-sky-is-the-limit/)
+
  
 ## Kämpfe:
 - Wutbonus (Erklärung und alter Wert) - [Link](https://forum.sfgame.de/showpost.php?p=498748&postcount=3)
@@ -93,10 +101,8 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 - @magic mar21 SFTools - [Link](https://sftools.mar21.eu/index.html)
 - SFTools Manual - [Link](https://discordapp.com/channels/551152314329858048/551830574940291073/681571313625595904)
 - (Übersichten zu Baukosten, Zeiten, Erträgen, Sammelalbum, ...) - [Link](https://www.4m7.de/sammelalbum/)
-- Klassenleitfaden: Die Grundlagen - [Link](https://www.buffed.de/buffedde-Brands-143860/Specials/S-und-F-Game-Insider-Tipps-von-den-Spielentwicklern-790827/2/)
 - Unterweltkampf-Simulation (und allgemeine Kampfsimulation) - [Link](https://docs.google.com/spreadsheets/d/1wdhdM0iW1yz0vNSItVsTPeJSdxHJlXRd7egS_-Piu-4/edit#gid=1507362171)
 - Kampfsimulator (by Sparky) - [Link](https://forum.sfgame.de/showpost.php?p=850030&postcount=8)
-- s-f-balance - [Link](https://wiki.black-pirates.info/images/1/1d/S-f-balance.pdf)
 - Internationale Serverliste - [Link](https://blog.black-pirates.info/server/shakes-fidget/)
 - Diverse Daten (Skillkosten, Erfahrung...) - [Link](https://blog.black-pirates.info/daten/)
  
