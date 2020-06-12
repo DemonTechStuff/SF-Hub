@@ -58,6 +58,7 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem [of
  
 ## Dungeons:
 - Der Lichtdungeon - alle Infos - [Link](https://forum.sfgame.de/showthread.php?t=4138)
+- Dungeonübersicht, alle Zahlen - [https://www.4m7.de/sammelalbum/dungeons.php](https://www.4m7.de/sammelalbum/dungeons.php)
 - Berechnung von Dungeon-Items, wenn Char < Gegner, aber Char+Aura > Gegner - [Link](https://forum.sfgame.de/showthread.php?t=53181)
 - Dungeons und die Levelbremse - Lohnt sich warten? - [Link](https://forum.sfgame.de/showthread.php?t=78536&page=2)
 - Dungeon Order (Dungeons 1-9 nach aufsteigendem Level) - [Link](https://steamcommunity.com/sharedfiles/filedetails/?id=641919597)
