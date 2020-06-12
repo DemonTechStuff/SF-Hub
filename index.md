@@ -3,7 +3,8 @@
 Auf dieser Website sammle ich alle Ressourcen die ich als nützlich empfinde.
 Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem offiziellen Support-Forum und aus dem S&F Discord: [Link](https://discord.com/invite/XWfSwe3)
 
-### German:
+## German:
+
 ----------------------------------------------------------------------------------------------------------------------------------
  
 ## Allgemeine Anleitungen, Gesamtguides, Einsteigerhilfen:
@@ -38,6 +39,7 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem off
 - Gibt es eine feste Fundrate (für Früchte) - [Link](https://forum.sfgame.de/showthread.php?t=73992)
 - Chancen im Habitat - [Link](https://forum.sfgame.de/showthread.php?t=74531)
 - Daten seltener Pets in 2020 - [https://number13.de/shakes-fidget-seltene-pets/](https://number13.de/shakes-fidget-seltene-pets/)
+
 ## Festung:
 - Der Festungs-Guide - [https://number13.de/shakes-fidget-festung-guide/](https://number13.de/shakes-fidget-festung-guide/)
 - Ritterhalle, FS und schwarze Edelsteine - [Link](https://forum.sfgame.de/showthread.php?t=74386)
