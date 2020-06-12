@@ -107,7 +107,7 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem [of
 - Accla's Arena Manager Tool - [Link](https://drive.google.com/file/d/1Cnnl66l6ixe1yimXVtQzBUR24Z6cOmKf/view?usp=sharing)
 
 ## Tools & Sides:
-- @magic mar21 SFTools - [Link](https://sftools.mar21.eu/index.html)
+- SFTools (Toolsammlung) - [Link](https://sftools.mar21.eu/index.html)
 - SFTools Manual - [Link](https://discordapp.com/channels/551152314329858048/551830574940291073/681571313625595904)
 - (Übersichten zu Baukosten, Zeiten, Erträgen, Sammelalbum, ...) - [Link](https://www.4m7.de/sammelalbum/)
 - Unterweltkampf-Simulation (und allgemeine Kampfsimulation) - [Link](https://docs.google.com/spreadsheets/d/1wdhdM0iW1yz0vNSItVsTPeJSdxHJlXRd7egS_-Piu-4/edit#gid=1507362171)
