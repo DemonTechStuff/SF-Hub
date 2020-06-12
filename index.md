@@ -1,7 +1,7 @@
 #### Welcome to the S&F-Hub
 
 Auf dieser Website sammle ich alle Ressourcen die ich als nützlich empfinde.
-Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem offiziellen Support-Forum und aus dem S&F Discord: [Link](https://discord.com/invite/XWfSwe3)
+Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem [offiziellen Support-Forum](https://forum.sfgame.de/) und aus dem S&F Discord: [Link](https://discord.com/invite/XWfSwe3)
 
 # German:
 
