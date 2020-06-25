@@ -96,7 +96,7 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem [of
 - Strategien & Taktiken, Tipps & Tricks, für's SA - [Link](https://forum.sfgame.de/showthread.php?t=62263)
 - Orte für Weltenbummler - [Link](https://forum.sfgame.de/showpost.php...98&postcount=2)
 - Level 1 Item 20x Upgraden für "Sky is the Limit" - [https://number13.de/shakes-fidget-level-1-item-20x-upgraden-fuer-sky-is-the-limit/](https://number13.de/shakes-fidget-level-1-item-20x-upgraden-fuer-sky-is-the-limit/)
-9 Achievements, die du an Tag 1 erledigen kannst - [https://number13.de/shakes-fidget-9-achievements-die-du-an-tag-1-erledigen-kannst/](https://number13.de/shakes-fidget-9-achievements-die-du-an-tag-1-erledigen-kannst/)
+- 9 Achievements, die du an Tag 1 erledigen kannst - [https://number13.de/shakes-fidget-9-achievements-die-du-an-tag-1-erledigen-kannst/](https://number13.de/shakes-fidget-9-achievements-die-du-an-tag-1-erledigen-kannst/)
 -  So funktioniert der Echte Heilige Gral - [https://number13.de/shakes-fidget-so-funktioniert-der-echte-heilige-gral/](https://number13.de/shakes-fidget-so-funktioniert-der-echte-heilige-gral/)
  
 ## Kämpfe:
