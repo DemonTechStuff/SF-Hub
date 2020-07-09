@@ -33,6 +33,7 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem [of
 - Stempelkalender (Advent) - [Link](https://forum.sfgame.de/showthread.php?t=80609)
  
 ## Pets:
+- Pet-Strategie: - [https://docs.google.com/spreadsheets/d/1l9wOt6p3twUZmPs6LvS4VHuiS9_bTvpDLDsQeNVJVzc/edit#gid=0](https://docs.google.com/spreadsheets/d/1l9wOt6p3twUZmPs6LvS4VHuiS9_bTvpDLDsQeNVJVzc/edit#gid=0)
 - Pet Werteberechnung - [Link](https://forum.sfgame.de/showthread.php?t=73984)
 - Höhere Pets auf 100 vs. kleinere 100er Pets auf 200? - [Link](https://forum.sfgame.de/showthread.php?p=840401#)
 - Pets - Fundorte und -bedingungen - [Link](https://forum.sfgame.de/showthread.php?t=74658)
