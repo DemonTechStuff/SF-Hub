@@ -1,0 +1,46 @@
+Gildenstatistik Legende
+
+Class:
+A	-	Assassin
+BM	-	Battlemage
+B	-	Berserker
+DH	-	Demonhunter
+M	-	Mage
+S	-	Scout
+W	-	Warrior
+
+Awards:
+Sammelalbum Achievements
+
+Album:
+Albumfortschritt in %
+
+Gold - Bonus:
+Gildenausbau Gold
+EXP - Bonus:
+Gildenausbau Erfahrung
+Knights:
+Ausbau der Ritterhalle
+Pet:
+Ausbau des Gildenpets
+
+Gear:
+F	-	Spieler hat seine Kampfausrüstung an
+Q	-	Spieler hat seine Questausrüstung an
+
+Main:
+Höhe des Hauptattributes
+
+Con:
+Höhe der Ausdauer
+
+Portal:
+Persönlicher Portalfortschritt
+
+Tränke:
+M - Trank mit Hauptattribut ist drinnen (25% = Grün, 15% = Gelb, sonst Rot)
+C - Trank mit Ausdauerattribut ist drinnen (25% = Grün, 15% = Gelb, sonst Rot)
+E - Trank mit Lebensenergie ist drinnen (ja = Grün, sonst Rot)
+
+Mount:
+Das Reittier des Spielers (50% = Grün, 30% = Orange, sonst Rot)
