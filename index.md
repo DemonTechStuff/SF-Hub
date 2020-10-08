@@ -1,7 +1,7 @@
 #### Welcome to the S&F-Hub
 
-- 04.10.20 (Oktoberfest 2): (Link)[https://cdn.discordapp.com/attachments/739555918601256971/763830686527258624/Aventuria.04.10.20.png]
-- 27.09.20 (Oktoberfest 1): (Link)[https://cdn.discordapp.com/attachments/739555918601256971/759882334530699314/Aventuria.27.09.20.png]
+- 04.10.20 (Oktoberfest 2): [Link](https://cdn.discordapp.com/attachments/739555918601256971/763830686527258624/Aventuria.04.10.20.png)
+- 27.09.20 (Oktoberfest 1): [Link](https://cdn.discordapp.com/attachments/739555918601256971/759882334530699314/Aventuria.27.09.20.png)
 
 # Diese Links werden nicht mehr gepflegt, aktuell befindet sich alles auf unserem Discord Server: [https://discord.gg/ZPgymma](https://discord.gg/ZPgymma)
 Auf dieser Website sammle ich alle Ressourcen die ich als nützlich empfinde.
