@@ -1,5 +1,6 @@
 #### Welcome to the S&F-Hub
 
+- 18.10.20: [Link](https://cdn.discordapp.com/attachments/739555918601256971/767463533570818048/Aventuria-18.10.png)
 - 11.10.20: Kommt
 - 04.10.20 (Oktoberfest 2): [Link](https://cdn.discordapp.com/attachments/739555918601256971/763830686527258624/Aventuria.04.10.20.png)
 - 27.09.20 (Oktoberfest 1): [Link](https://cdn.discordapp.com/attachments/739555918601256971/759882334530699314/Aventuria.27.09.20.png)
