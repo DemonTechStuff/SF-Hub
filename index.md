@@ -6,7 +6,7 @@
 - 27.09.20 (Oktoberfest 1): [Link](https://cdn.discordapp.com/attachments/739555918601256971/759882334530699314/Aventuria.27.09.20.png)
 - 20.09.20: [Link](https://cdn.discordapp.com/attachments/739555918601256971/757326414159675462/Aventuria.20.09.20.png)
 - 14.09.20: [Link](https://cdn.discordapp.com/attachments/739555918601256971/755119514856718470/Aventuria.14.09.20.png)
-- 06.09.20: [Link]/https://cdn.discordapp.com/attachments/739555918601256971/752265117743448064/Aventuria.06.09.20.png)
+- 06.09.20: [Link](https://cdn.discordapp.com/attachments/739555918601256971/752265117743448064/Aventuria.06.09.20.png)
 
 # Diese Links werden nicht mehr gepflegt, aktuell befindet sich alles auf unserem Discord Server: [https://discord.gg/ZPgymma](https://discord.gg/ZPgymma)
 Auf dieser Website sammle ich alle Ressourcen die ich als nützlich empfinde.
