@@ -2,7 +2,7 @@
 
 - 25.10.20 [Link](https://cdn.discordapp.com/attachments/739555918601256971/770340432184868884/Aventuria.25.10.png)
 - 25.10.20 [Zum 27.09 - 1 Monat](https://imgur.com/a/5BwmIMr)
-- 25.10.20 [Zum 30.08 - 2 Monat](https://imgur.com/a/8D7cVy9)
+- 25.10.20 [Zum 30.08 - 2 Monate](https://imgur.com/a/8D7cVy9)
 - 18.10.20: [Link](https://cdn.discordapp.com/attachments/739555918601256971/767463533570818048/Aventuria-18.10.png)
 - 11.10.20: [Link](https://imgur.com/a/fsIpVzq)
 - 04.10.20 (Oktoberfest 2): [Link](https://cdn.discordapp.com/attachments/739555918601256971/763830686527258624/Aventuria.04.10.20.png)
