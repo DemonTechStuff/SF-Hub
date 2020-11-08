@@ -1,5 +1,6 @@
 #### Welcome to the S&F-Hub
 
+- 08.11.20 (Halloween Ende): [Link](https://cdn.discordapp.com/attachments/772857288108408854/775107012550721546/Aventuria.08.11.png)
 - 01.11.20 (Halloween): [Link](https://cdn.discordapp.com/attachments/739555918601256971/772564680115224576/Aventuria.01.11.png)
 - 25.10.20 [Link](https://cdn.discordapp.com/attachments/739555918601256971/770340432184868884/Aventuria.25.10.png)
 - 25.10.20 [Zum 27.09 - 1 Monat](https://imgur.com/a/5BwmIMr)
