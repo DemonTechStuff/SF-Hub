@@ -38,9 +38,9 @@ Portal:
 Persönlicher Portalfortschritt
 
 Tränke:
-M - Trank mit Hauptattribut ist drinnen (25% = Grün, 15% = Gelb, sonst Rot)
-C - Trank mit Ausdauerattribut ist drinnen (25% = Grün, 15% = Gelb, sonst Rot)
-E - Trank mit Lebensenergie ist drinnen (ja = Grün, sonst Rot)
+M - Trank mit Hauptattribut ist drinnen (ja, sonst "X")
+C - Trank mit Ausdauerattribut ist drinnen (ja, sonst "X")
+L - Trank mit Lebensenergie ist drinnen (ja, sonst Rot)
 
 Mount:
 Das Reittier des Spielers (50% = Grün, 30% = Orange, sonst Rot)
