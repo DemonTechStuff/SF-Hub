@@ -1,5 +1,9 @@
 #### Welcome to the S&F-Hub
 
+- 29.11.20 (Black Friday): [Link](https://cdn.discordapp.com/attachments/772857288108408854/782706185589358622/Aventuria.29.11.png)
+- 29.11.20 (Zum 25.10 - 1 Monat): [Link](https://cdn.discordapp.com/attachments/772857288108408854/782706340136878110/Aventuria.29.11-1month.png)
+- 29.11.20 (Zum 27.09 - 2 Monate): [Link](https://cdn.discordapp.com/attachments/772857288108408854/782706370780594208/Aventuria.29.11-2month.png)
+- 29.11.20 (Zum 30.09 - 3 Monate): [Link](https://cdn.discordapp.com/attachments/772857288108408854/782706399226363944/Aventuria.29.11-3month.png)
 - 23.11.20: [Link](https://cdn.discordapp.com/attachments/772857288108408854/780700425724624906/Aventuria.23.11.png)
 - 15.11.20: [Link](https://cdn.discordapp.com/attachments/772857288108408854/779462520607735869/Aventuria15.11.png)
 - 08.11.20 (Halloween Ende): [Link](https://cdn.discordapp.com/attachments/772857288108408854/775107012550721546/Aventuria.08.11.png)
