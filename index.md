@@ -1,6 +1,6 @@
 #### Welcome to the S&F-Hub
 
-- 14.12.20: [Link](https://cdn.discordapp.com/attachments/772857288108408854/788135640289640508/Aventuria.13.12.png)
+- 13.12.20: [Link](https://cdn.discordapp.com/attachments/772857288108408854/788135640289640508/Aventuria.13.12.png)
 - 07.12.20: [Link](https://cdn.discordapp.com/attachments/772857288108408854/785410935997202432/Aventuria.07.12.png)
 - 29.11.20 (Black Friday): [Link](https://cdn.discordapp.com/attachments/772857288108408854/782706185589358622/Aventuria.29.11.png)
 - 29.11.20 (Zum 25.10 - 1 Monat): [Link](https://cdn.discordapp.com/attachments/772857288108408854/782706340136878110/Aventuria.29.11-1month.png)
