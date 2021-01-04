@@ -1,5 +1,6 @@
 #### Welcome to the S&F-Hub
 
+- 04.01.21: [Link](https://cdn.discordapp.com/attachments/772857288108408854/795750040299503626/Aventuria.1609743545492.1609107121338.png)
 - 27.12.20 (Weihnachten): [Link](https://cdn.discordapp.com/attachments/772857288108408854/792878656069828638/Aventuria.27.12.Weihnachten.png)
 - 20.12.20: [Link](https://cdn.discordapp.com/attachments/772857288108408854/790346964084457522/Aventuria.20.12.20.png)
 - 13.12.20: [Link](https://cdn.discordapp.com/attachments/772857288108408854/788135640289640508/Aventuria.13.12.png)
