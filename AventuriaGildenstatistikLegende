@@ -8,6 +8,10 @@ DH	-	Demonhunter
 M	-	Mage
 S	-	Scout
 W	-	Warrior
+D - Druid
+
+Rank
+Rang (Ehrenhalle) 
 
 Awards:
 Sammelalbum Achievements
@@ -15,32 +19,43 @@ Sammelalbum Achievements
 Album:
 Albumfortschritt in %
 
+Runes:
+Runen im Arenamanager
+
 Gold - Bonus:
 Gildenausbau Gold
 EXP - Bonus:
 Gildenausbau Erfahrung
+Pet
+Ausbau des Gildenpets
+Portal:
+Fortschritt im persönlichen Portal
+
+Gem Mine:
+Ausbau der Mine (Festung)
 Knights:
 Ausbau der Ritterhalle
-Pet:
-Ausbau des Gildenpets
+
 
 Gear:
 F	-	Spieler hat seine Kampfausrüstung an
 Q	-	Spieler hat seine Questausrüstung an
 
+Total Sum:
+Summe aus Main Stat und Ausdauer
+Ratio:
+Verhätnis Main zu Ausdauer
 Main:
 Höhe des Hauptattributes
-
 Con:
 Höhe der Ausdauer
 
-Portal:
-Persönlicher Portalfortschritt
-
 Tränke:
-M - Trank mit Hauptattribut ist drinnen (ja, sonst "X")
-C - Trank mit Ausdauerattribut ist drinnen (ja, sonst "X")
-L - Trank mit Lebensenergie ist drinnen (ja, sonst Rot)
+Farbe der Tränke
+X = niedriger Trang
+Weiß = Kein Trank
 
 Mount:
 Das Reittier des Spielers (50% = Grün, 30% = Orange, sonst Rot)
+Guild Joined:
+Eintrittsdatum in die Gilde
