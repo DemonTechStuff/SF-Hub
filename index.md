@@ -1,6 +1,7 @@
 #### Welcome to the S&F-Hub
 
 - 27.06.21 (Geburtstag): [Link](https://cdn.discordapp.com/attachments/772857288108408854/859117822113087518/Aventuria.27.06.2021.png)
+- (Vergleich zum Osterevent): [Link](https://cdn.discordapp.com/attachments/772857288108408854/859120172341788732/Aventuria.27.06.2021_05.04.png)
 - 20.06.21: [Link](https://cdn.discordapp.com/attachments/772857288108408854/857307076607213608/Aventuria.20.06.21.png)
 - 13.06.21: [Link](https://cdn.discordapp.com/attachments/772857288108408854/854268615444791306/Aventuria.13.06.png)
 - 06.06.21: [Link](https://cdn.discordapp.com/attachments/772857288108408854/852224801824047114/Aventuria.06.06.png)
