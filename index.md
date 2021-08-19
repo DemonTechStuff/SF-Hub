@@ -81,7 +81,7 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem [of
 - Alle Quests des geheimen Geheimauftrag des Tages - https://number13.de/shakes-fidget-alle-quests-des-geheimen-geheimauftrag-des-tages/
 - Wie viel Attribute ist ein Level wert? + Gold oder EP Quests, eine progressive Analyse - https://forum.sfgame.de/showthread.php?t=78394
 - Stempelkalender (Advent) - https://forum.sfgame.de/showthread.php?t=80609
-Pets:
+##Pets:
 - Pet-Strategie: - https://docs.google.com/spreadsheets/d/1l9wOt6p3twUZmPs6LvS4VHuiS9_bTvpDLDsQeNVJVzc/edit#gid=0
 - Pet Werteberechnung - https://forum.sfgame.de/showthread.php?t=73984
 - Höhere Pets auf 100 vs. kleinere 100er Pets auf 200? - https://forum.sfgame.de/showthread.php?p=840401#
@@ -90,7 +90,7 @@ Pets:
 - Chancen im Habitat - https://forum.sfgame.de/showthread.php?t=74531
 - Daten seltener Pets in 2020 - https://number13.de/shakes-fidget-seltene-pets/
 
-####Festung:
+##Festung:
 - Der Festungs-Guide - https://number13.de/shakes-fidget-festung-guide/
 - Ritterhalle, FS und schwarze Edelsteine -https://forum.sfgame.de/showthread.php?t=74386
 - Festungsangriff(-spanne in der Ehrenhalle) - https://forum.sfgame.de/showthread.php?t=75310
@@ -105,6 +105,7 @@ Pets:
 - (Serverstart Anlocktaktik Unterwelt) - https://forum.sfgame.de/showthread.php?t=77078
 - Keeper Cost - https://bit.ly/Keeper-cost
 - Hinweise, Tipps und aktuelle Taktik - https://forum.sfgame.de/showthread.php?p=843428
+
 ##Dungeons:
 - Der Lichtdungeon - alle Infos - https://forum.sfgame.de/showthread.php?t=4138
 - Dungeonübersicht, alle Zahlen - https://www.4m7.de/sammelalbum/dungeons.php
@@ -126,7 +127,7 @@ Pets:
 - Info-Sammelthread zum GildenPet - https://forum.sfgame.de/showthread.php?t=79481
 - Kosten für Gilden Vollausbau - Alt vs. Neu - https://number13.de/shakes-fidget-kosten-fuer-gilden-vollausbau/
 
-- ##Skills, Items, Toilette, Schmied, Hexe:
+##Skills, Items, Toilette, Schmied, Hexe:
 - Maximale Werte von Gegenständen - https://forum.sfgame.de/showthread.php?t=70443
 - Übersicht zur Hexe und den Verzauberungen - https://forum.sfgame.de/showthread.php?t=59738
 - Zauberrollen der Hexe - https://www.4m7.de/sammelalbum/hexe.php
