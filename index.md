@@ -58,19 +58,19 @@ Diese Ressourcen stammen von verschiedensten Quellen, hauptsächlich aus dem [of
 ----------------------------------------------------------------------------------------------------------------------------------
  
 ## Allgemeine Anleitungen, Gesamtguides, Einsteigerhilfen:
-- Offizielle Anleitung - https://forum.sfgame.de/showthread.php?t=57
-- FAQ (Game, Forum, etc.) - https://forum.sfgame.de/showthread.php?t=81
-- Häufige Fragen & Antworten (von Fipsi) - https://forum.sfgame.de/showthread.php?t=18069
-- Skilltipps für Einsteiger - https://forum.sfgame.de/showthread.php?t=26480
-- Einsteigerhilfen - https://forum.sfgame.de/showthread.php?t=4150
-- Der Späteinsteigerguide - https://forum.sfgame.de/showthread.php?t=50446
-- Der Level 1 Guide - https://forum.sfgame.de/showthread.php?t=48732
-- Anfänger Guide (Level 1-110) - https://number13.de/shakes-fidget-anfaenger-guide/
+- Offizielle Anleitung - [https://forum.sfgame.de/showthread.php?t=57](https://forum.sfgame.de/showthread.php?t=57)
+- FAQ (Game, Forum, etc.) - [https://forum.sfgame.de/showthread.php?t=81](https://forum.sfgame.de/showthread.php?t=81)
+- Häufige Fragen & Antworten (von Fipsi) - [https://forum.sfgame.de/showthread.php?t=18069](https://forum.sfgame.de/showthread.php?t=18069)
+- Skilltipps für Einsteiger - [https://forum.sfgame.de/showthread.php?t=26480](https://forum.sfgame.de/showthread.php?t=26480)
+- Einsteigerhilfen - [https://forum.sfgame.de/showthread.php?t=4150](https://forum.sfgame.de/showthread.php?t=4150)
+- Der Späteinsteigerguide - [https://forum.sfgame.de/showthread.php?t=50446](https://forum.sfgame.de/showthread.php?t=50446)
+- Der Level 1 Guide - [https://forum.sfgame.de/showthread.php?t=48732]([https://forum.sfgame.de/showthread.php?t=48732)
+- Anfänger Guide (Level 1-110) - [https://number13.de/shakes-fidget-anfaenger-guide/](https://number13.de/shakes-fidget-anfaenger-guide/)
 
 ##Klassen
-- Klassenleitfaden: Die Grundlagen - https://www.buffed.de/buffedde-Brands-143860/Specials/S-und-F-Game-Insider-Tipps-von-den-Spielentwicklern-790827/2/
-- Der Berserker - Beste Klasse für Dungeons? - https://number13.de/shakes-fidget-der-berserker-beste-klasse-fuer-dungeons/
-- s-f-balance - https://wiki.black-pirates.info/images/1/1d/S-f-balance.pdf
+- Klassenleitfaden: Die Grundlagen - [https://www.buffed.de/buffedde-Brands-143860/Specials/S-und-F-Game-Insider-Tipps-von-den-Spielentwicklern-790827/2/](https://www.buffed.de/buffedde-Brands-143860/Specials/S-und-F-Game-Insider-Tipps-von-den-Spielentwicklern-790827/2/)
+- Der Berserker - Beste Klasse für Dungeons? - [https://number13.de/shakes-fidget-der-berserker-beste-klasse-fuer-dungeons/](https://number13.de/shakes-fidget-der-berserker-beste-klasse-fuer-dungeons/)
+- s-f-balance - [https://wiki.black-pirates.info/images/1/1d/S-f-balance.pdf](https://wiki.black-pirates.info/images/1/1d/S-f-balance.pdf)
 
 ##Quests:
 - Reihenfolge der Events - https://forum.sfgame.de/showthread.php?t=71332
